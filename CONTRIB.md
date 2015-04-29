@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # How to become a contributor and submit your own code
 
 ## Contributor License Agreements
@@ -62,3 +63,6 @@ accept your pull requests.
 1. Ensure that your code has an appropriate set of unit tests which all pass.
 1. Submit a request to fork your repo in GoogleCloudPlatform organizationt via
    your proposal issue.
+=======
+[Moved to CONTRIBUTING.md](CONTRIBUTING.md)
+>>>>>>> 6ef0f8c3c52bea01c8bd30ad327295d075959c18
